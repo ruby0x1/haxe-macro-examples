@@ -1,5 +1,5 @@
 // MIT License
-//http://github.com/underscorediscovery/luxe | notes.underscorediscovery.com
+//https://github.com/underscorediscovery/haxe-macro-examples | notes.underscorediscovery.com
 
 class TestID {
 
